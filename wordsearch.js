@@ -1,3 +1,4 @@
+//Paired Programming
 const wordSearch = (letters, word) => { 
     const horizontalJoin = letters.map(ls => ls.join(''))
     for (l of horizontalJoin) {
